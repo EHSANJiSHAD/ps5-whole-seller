@@ -1,0 +1,10 @@
+.qstn-ans{
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px gray;
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 10px;
+}
+.qstn-ans h3{
+    color: rgb(131, 219, 30);
+}

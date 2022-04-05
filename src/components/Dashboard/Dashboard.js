@@ -8,7 +8,7 @@ import MyBarChart from '../MyBarChart/MyBarChart';
 const Dashboard = () => {
     return (
         <div>
-            <h1 style={{ textAlign: 'center', color: 'rgb(131, 219, 30)' }}>CHARTS</h1>
+            <h1 style={{ textAlign: 'center', color: 'rgb(131, 219, 30)'}}>CHARTS</h1>
 
             <div className='charts'>
                 <div>

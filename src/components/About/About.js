@@ -5,7 +5,7 @@ import React from 'react';
 const About = () => {
     return (
         <div>
-           <h1>About</h1> 
+           <h1 style={{ textAlign: 'center', color: 'rgb(131, 219, 30)' }}>ABOUT US</h1> 
         </div>
     );
 };
