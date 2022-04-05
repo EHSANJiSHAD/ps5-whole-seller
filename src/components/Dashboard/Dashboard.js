@@ -8,18 +8,24 @@ import MyBarChart from '../MyBarChart/MyBarChart';
 const Dashboard = () => {
     return (
         <div>
-            <h1 style={{textAlign:'center',color:'rgb(131, 219, 30)'}}>CHARTS</h1>
-            
+            <h1 style={{ textAlign: 'center', color: 'rgb(131, 219, 30)' }}>CHARTS</h1>
+
             <div className='charts'>
+                <div>
+                    <h2>MONTHLY REVENUE LINECHART</h2>
+                    <MyLineChart></MyLineChart>
+                </div>
 
-            <MyLineChart></MyLineChart>
+                <div>
+                    <h2>MONTHLY REVENUE BARCHART</h2>
+                    <MyBarChart></MyBarChart>
+                </div>
 
-            <MyBarChart></MyBarChart>
 
 
             </div>
-            
-        
+
+
 
         </div>
     );

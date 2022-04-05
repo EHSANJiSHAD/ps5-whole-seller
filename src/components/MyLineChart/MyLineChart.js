@@ -43,7 +43,10 @@ const MyLineChart = () => {
         }
     ];
     return (
+
+        
         <LineChart height={400} width={500} data={data}>
+            
             <Line dataKey={'revenue'} type="monotone"  stroke="#82ca9d" ></Line>
             <CartesianGrid strokeDasharray="3 3" />
             <XAxis dataKey={"month"}></XAxis>
