@@ -1,0 +1,12 @@
+.review{
+    border: 2px solid gray;
+    margin: 20px;
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.review small{
+    color: rgba(143, 143, 16, 0.986);
+    font-weight: 800;
+}

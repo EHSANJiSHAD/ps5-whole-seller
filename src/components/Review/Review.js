@@ -2,11 +2,14 @@ import './Review.css'
 
 import React from 'react';
 
-const Review = () => {
-    const {}
+const Review = (props) => {
+    const {name,review,ratings,img} = props.review
     return (
-        <div>
-            
+        <div className='review'>
+            {/* <img src={img} alt="" /> */}
+            <h3>{name}</h3>
+            <p>{review}</p>
+            <small>{ratings} Stars</small>
         </div>
     );
 };
