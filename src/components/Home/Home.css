@@ -1,0 +1,14 @@
+.headline{
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+}
+
+.headline img{
+    width: 100%;
+    margin-left: 20px;
+}
+
+.headline h1{
+    color: rgb(55, 184, 23);
+}

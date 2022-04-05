@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+    "img":"https://www.ginx.tv/uploads/Valorant_gun_skin_collection.jpg",
+    "name":"Mahin",
+      "review": "The PS5 has run beautifully and so intelligently from what I've experienced. The set up was of course easy and fast. The new UI is smooth and I definitely like it more than the old one on the PS4. ",
+      "ratings": 4.3
+    },
+    {
+      "id": "2",
+      "img": "https://www.dexerto.com/wp-content/uploads/2022/01/07/Protocol_Bundle_1920x1080.jpg",
+      "name":"Jame",
+      "review": "The Dualsense Controller is AMAZING. It is probably the next best thing (only second to the console itself) with the way it works. It's not as slippery like the Dualshock and feels great in hand. Even after hours of gaming, I did not feel any fatigue in my hands. The battery life is probably similar to its predecessor. ",
+      "ratings": 4.5
+    },
+    {
+      "id": "3",
+      "img": "https://i.ytimg.com/vi/7cOj77u2MRA/maxresdefault.jpg",
+      "name":"Ishat",
+      "review": "An actual buyer here!!! The console has been great. No issues so far (Crosses fingers). No glitches (like many who don’t work in the tech field claim). I’ve tried plenty of PS4 games and they all work normal. I have Spider-man, 2K, COD and Valhalla and they are all good games. The adaptive triggers on the controller definitely stand out as a highlight. I turn them off for multiplayer in COD because they can be a distraction. ",
+      "ratings": 4.5
+    },
+    {
+      "id": "4",
+      "img": "https://www.dexerto.com/wp-content/uploads/2020/11/EdhYXXXWAAMZdd_.jpg",
+      "name":"Eshan",
+      "review": "Highly recommend being patient it was extremely hard to get my hands on this; however, it’s possible! After paying for the PS5, Best Buy keep me posted when it was available to pick up at the store. Highly recommend if you can buying it from them.",
+      "ratings": 5
+    },
+    {
+      "id": "5",
+      "img": "https://www.dailyesports.gg/wp-content/uploads/2021/02/New-Glitchpop-Collection-800x400.jpg",
+      "name":"Anim",
+      "review": "Well, i got lucky and visited a store that happened to have a bunch in stuck. No waiting in line, no forced bundles. Anyway, the PS5 is not leaps and bounds better than my PS4 when comparing GT7... except for the loading time omg. And since this will play all my PS4 games too its really the perfect upgrade.",
+      "ratings": 4.8
+    },
+    {
+      "id": "6",
+      "name":"Tauhid",
+      "img": "https://cdn.realsport101.com/images/ncavvykf/gfinityesports/9c2acc2865821c187d1797320f9a33190323d4b2-1920x1080.jpg?rect=1,0,1919,1080&w=700&h=394&dpr=2",
+      "review": "Idk how long i waited for this console, i had to wait outside for 2 hours when it was snowing and when i finally got it the feeling was surreal the only thing I'd point out is, if you want black plates for your console you have to buy it for $60 which is obviously overpriced but except for that this console is worth every penny you spent"
+     }
+    
+    
+  ]
