@@ -1,6 +1,6 @@
 # PS5 WHOLE SELLER
 
- [PS5 WHOLE SELLER](https://github.com/facebook/create-react-app).
+ [PS5 WHOLE SELLER LIVE SITE](https://astonishing-custard-971f5c.netlify.app/).
 
 # What have been added in this project?
 * React router has been used
